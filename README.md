@@ -42,7 +42,7 @@ Looking forward to connecting with you!
 </div><br/>
 
   ![Snake animation](https://github.com/incubusdev/Incubusdev/blob/output/github-contribution-grid-snake.svg)
-[![Come to the Dart Side](https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png)](https://github.com/kevmoo/dart_side)
+![Come to the Dart Side](https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png)
 
 
 
