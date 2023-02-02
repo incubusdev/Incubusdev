@@ -41,7 +41,7 @@ Looking forward to connecting with you!
 <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div><br/>
 
-  ![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/incubusdev/Incubusdev/blob/output/github-contribution-grid-snake.svg)
  <div align="center">
   <a href="https://github.com/incubusdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incubusdev&layout=compact&langs_count=7&theme=dark&count_private=true"/>
