@@ -27,10 +27,7 @@ Looking forward to connecting with you!
 />
 <img src="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true" />
 </picture>
-<div align="center">
-  <a href="https://github.com/incubusdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incubusdev&layout=compact&langs_count=7&theme=dark&count_private=true"/>
-</div>
+
 
 <div style="display: inline_block">
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -43,6 +40,12 @@ Looking forward to connecting with you!
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div><br/>
+
+  ![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+  <a href="https://github.com/incubusdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incubusdev&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+</div>
 
 Together, let's create something amazing!!!!!
 
