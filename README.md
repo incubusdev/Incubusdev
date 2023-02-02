@@ -1,5 +1,11 @@
 
+Welcome to my Github Profile!
 
+I'm a Flutter developer with a passion for creating high-quality, user-friendly mobile apps. My expertise lies in building robust and visually appealing applications that deliver a seamless user experience. I have a keen eye for detail and a love for clean and maintainable code.
+
+Feel free to check out my portfolio to see some of my recent projects, and don't hesitate to reach out if you have any questions or if you're interested in working together.
+
+Looking forward to connecting with you!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biell_ramos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ramos-94049924b)
@@ -28,3 +34,6 @@
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div><br/>
+
+Together, let's create something amazing!!!!!
+
