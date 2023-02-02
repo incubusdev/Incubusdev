@@ -2,13 +2,13 @@
   <head>
   </head>
   <body>
-    <h1>Welcome to my Github Profile!</h1>
+    <h1>Welcome to my Github Profile!🔥🔥🔥</h1>
   </body>
 </html>
 
-I'm a Flutter developer with a passion for creating high-quality, user-friendly mobile apps. My expertise lies in building robust and visually appealing applications that deliver a seamless user experience. I have a keen eye for detail and a love for clean and maintainable code.
+I'm a Flutter developer <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> with a passion for creating high-quality, user-friendly mobile apps👨‍💻. My expertise lies in building robust and visually appealing applications that deliver a seamless user experience. I have a keen eye for detail and a love for clean and maintainable code🐱‍💻.
 
-Feel free to check out my portfolio to see some of my recent projects, and don't hesitate to reach out if you have any questions or if you're interested in working together.
+Feel free to check out my portfolio to see some of my recent projects, and don't hesitate to reach out if you have any questions🙋‍♂️ or if you're interested in working together🚀🚀.
 
 Looking forward to connecting with you!
 
@@ -28,6 +28,10 @@ Looking forward to connecting with you!
 <img src="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true" />
 </picture>
 
+<div>
+  
+</div><br/>  
+
 
 <div style="display: inline_block">
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -39,10 +43,15 @@ Looking forward to connecting with you!
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</div><br/>
+</div>
 
   ![Snake animation](https://github.com/incubusdev/Incubusdev/blob/output/github-contribution-grid-snake.svg)
+  <div>
   
+</div><br/>  
+  <div>
+  
+</div><br/>  
   
  <div style="display: inline_block">
   <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
