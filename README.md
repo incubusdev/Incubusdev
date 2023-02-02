@@ -27,9 +27,10 @@ Looking forward to connecting with you!
 />
 <img src="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true" />
 </picture>
-
-
-
+<div align="center">
+  <a href="https://github.com/incubusdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incubusdev&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
