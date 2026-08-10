@@ -1,72 +1,56 @@
-<html>
-  <head>
-  </head>
-  <body>
-    <h1>Welcome to my Github Profile!🔥🔥🔥</h1>
-  </body>
-</html>
+# Hi there, I'm Gabriel! 👋
 
-I'm a Flutter developer <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> with a passion for creating high-quality, user-friendly mobile apps👨‍💻. My expertise lies in building robust and visually appealing applications that deliver a seamless user experience. I have a keen eye for detail and a love for clean and maintainable code🐱‍💻.
+Full-Stack Software Engineer with a solid focus on building scalable web architectures, resilient backend systems, and modern multi-tenant solutions. Experienced in managing cloud infrastructure, containerized environments, dynamic frontends, and robust CI/CD pipelines.
 
-Feel free to check out my portfolio to see some of my recent projects, and don't hesitate to reach out if you have any questions🙋‍♂️ or if you're interested in working together🚀🚀.
+---
 
-Looking forward to connecting with you!
+### 🛠️ Tech Stack & Skills
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biell_ramos)
+#### Backend & Architecture
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### DevOps, Infrastructure & Observability
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true&theme=dark&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true&count_private=true" alt="Gabriel's GitHub Stats" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/incubusdev/Incubusdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ramos-94049924b)
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true&theme=dark&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=incubusdev&show_icons=true" />
-</picture>
-
-<div>
-  
-</div><br/>  
-
-
-<div style="display: inline_block">
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img align="center" alt="SqLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" alt="Sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-  <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img align="center" alt="ios" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</div>
-
-  ![Snake animation](https://github.com/incubusdev/Incubusdev/blob/output/github-contribution-grid-snake.svg)
-  <div>
-  
-</div><br/>  
-  <div>
-  
-</div><br/>  
-  
- <div style="display: inline_block">
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
- 
- </div><br/>  
- 
- ![Come to the Dart Side](https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png)
-
-
-
-Together, let's create something amazing!!!!!
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biell_ramos)
